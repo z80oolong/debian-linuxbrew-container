@@ -8,7 +8,7 @@
 
 ## Docker コンテナのビルド方法
 
-まず最初に、 [Docker][DOCK] コンテナの公式のドキュメントである "[Docker のインストール — Docker-docs-ja 17.06.Beta ドキュメント][DCK1]" のページ等を参考にして、 [tmux][TMUX] の [AppImage ファイル][APPI]を生成するための端末に Docker コンテナ環境を構築します。
+まず最初に、 [Docker][DOCK] コンテナの公式のドキュメントである "[Docker のインストール — Docker-docs-ja 17.06.Beta ドキュメント][DCK1]" のページ等を参考にして、 [Docker][DOCK] コンテナを作成する為の端末に [Docker][DOCK] コンテナ環境を構築します。
 
 そして、本リポジトリ内のシェルスクリプト ```build-appimage.sh``` を以下の通りに起動します。
 
